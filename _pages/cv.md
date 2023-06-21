@@ -49,13 +49,6 @@ a:link {
 
 {% include base_path %}
 
-<div class="row">
-  <div class="column" style="width: 100%;background-color: #D3D3D3;text-align: center;">
-    <div class="card">
-      <a href="https://maitreygram.github.io/CV/">Circum Vitae</a>
-    </div>
-  </div>
-</div>
 <div class="row" style="background-color: #D3D3D3;text-align: center;">
   <div class="card">
     <a href="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf">Open full PDF</a>
