@@ -56,7 +56,7 @@ a:link {
 }
 
 #rcorners {
-  border-radius: 25px;
+  border-radius: 10px;
   background: rgba(255, 255, 255, 0.5);
   background-position: left top;
   background-repeat: repeat;
@@ -66,6 +66,8 @@ a:link {
 </style>
 
 <h1 id="rcorners">Welcome to my webpage!</h1>
+
+<p id="rcorners"></p>
 
 
 
