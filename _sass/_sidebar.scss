@@ -8,7 +8,9 @@
 
 .sidebar {
   border-radius: 10px;
-  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   background: rgba(255, 255, 255, 0.5);
   padding: 20px;
    
