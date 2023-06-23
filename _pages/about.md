@@ -49,6 +49,7 @@ redirect_from:
 }
   
 a:link {
+  color: green;
   text-decoration: none;
 }
 </style>
