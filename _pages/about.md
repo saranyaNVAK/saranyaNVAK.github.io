@@ -67,7 +67,7 @@ a:link {
 
 <h1 id="rcorners">Welcome to my webpage!</h1>
 
-<p id="rcorners"></p>
+<p id="rcorners">I am a </p>
 
 
 
