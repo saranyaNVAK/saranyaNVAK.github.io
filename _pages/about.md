@@ -54,6 +54,9 @@ body {
 a:link {
   text-decoration: none;
 }
+p {
+  background: rgba(204, 204, 204, 0.5);
+}
 </style>
 
 I am currently a graduate student in the <a href="https://cs.unc.edu">Computer Science Department</a> at the <a href="https://www.unc.edu">University of North Carolina at Chapel Hill</a>, working with Prof. <a href="https://www.danszafir.com">Daniel Szafir</a>. My research interests include robotic perception and common sense reasoning in robotics. Recently, I'm working on conditioning large language models on the objects present around a robot to generate situationally aware action plans. In the past I have worked with Prof. <a href="https://www.gedasbertasius.com">Gedas Bertasius</a> on studying the zero-shot performance of vision transformers for video object segmentation and pose propagation.
