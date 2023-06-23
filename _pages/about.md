@@ -54,13 +54,19 @@ body {
 a:link {
   text-decoration: none;
 }
-p {
-  background: rgba(204, 204, 204, 0.5);
+
+#rcorners {
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.5);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 10px;
 }
+  
 </style>
 
-I am currently a graduate student in the <a href="https://cs.unc.edu">Computer Science Department</a> at the <a href="https://www.unc.edu">University of North Carolina at Chapel Hill</a>, working with Prof. <a href="https://www.danszafir.com">Daniel Szafir</a>. My research interests include robotic perception and common sense reasoning in robotics. Recently, I'm working on conditioning large language models on the objects present around a robot to generate situationally aware action plans. In the past I have worked with Prof. <a href="https://www.gedasbertasius.com">Gedas Bertasius</a> on studying the zero-shot performance of vision transformers for video object segmentation and pose propagation.
+<h1 id="rcorners">Welcome to my webpage!</h1>
 
-I have worked on Graph Machine Learning as a researcher at <a href="https://www.mastercard.co.in/en-in.html">AI Garage, Mastercard</a> and I'm interested in finding ways to port my experience across fields to my current and future projects. I also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a> where I worked in the Computer Vision team of the Advanced Technology Lab.
+
 
 I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">Computer Science</a> from the <a href="https://www.iitb.ac.in">Indian Institute of Technology, Bombay</a> where I worked with Prof. <a href="https://www.cse.iitb.ac.in/~ajitvr">Ajit Rajwade</a> on my <a href="https://maitreygram.github.io/thesis/BTP_Report_2.pdf">Undergraduate thesis</a> in the field of 3D Reconstruction in Cryogenic Electron Microscopy. I also was the Software team lead for <a href="https://iitbmartian.github.io">The IIT Bombay Mars Rover Team</a>, where I worked on building rovers capable of traversing on Mars like terrain.
