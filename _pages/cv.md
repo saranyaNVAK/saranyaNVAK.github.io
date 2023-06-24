@@ -66,7 +66,7 @@ body {
 
 <div class="row" style="text-align: center;" id="rcorners">
   <div class="card">
-    <a href="https://maitrey-gramo/CV/Saranya_resume.pdf">Open full PDF</a>
+    <a href="https://maitrey-gramo.github.io/CV/Saranya_resume.pdf">Open full PDF</a>
   </div>
 </div>
 <div class="row">
