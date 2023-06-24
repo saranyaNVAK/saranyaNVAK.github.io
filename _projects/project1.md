@@ -1,7 +1,7 @@
 ---
 title: "Clinical Pharmacist Intern"
 collection: teaching
-type: "Undergraduate course"
+type: "Internship"
 permalink: /projects/project1
 venue: 'Malla Reddy Hospital'
 date: 2020-07-01
