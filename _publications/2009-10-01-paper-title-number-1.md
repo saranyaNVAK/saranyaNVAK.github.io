@@ -3,7 +3,7 @@ title: "Production of L-Arginase Under SSF and its Optimization"
 collection: publications
 permalink: /publications/paper1
 excerpt: ''
-date: 2017-12-22
+date: 2018-01-01
 venue: 'Mintage Journal of Pharmaceutical & Medical Sciences'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Unissa, Rahamat, K BhanuRekha, Daggupati Amani, Sowmya Konakanchi and Saranya Arun Kumar. “PRODUCTION OF L-ARGINASE UNDER SSF AND ITS OPTIMIZATION.” Mintage Journal of Pharmaceutical and Medical Sciences (2018)'
