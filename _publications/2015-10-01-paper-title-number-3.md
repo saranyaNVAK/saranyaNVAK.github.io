@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Biogenic Synthesis of Silver Nano Particles Using Endophytic Fungi P. Chrysogenum Isolated from the Leaves of Withania Somnifera and its Antibacterial Activity"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publications/paper3
+excerpt: ''
+date: 2018-03-01
+venue: 'International Journal of Research in Pharmacy and Biosciences'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
