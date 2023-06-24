@@ -1,6 +1,6 @@
 ---
 title: "Clinical Informatics Intern"
-collection: teaching
+collection: projects
 type: "Internship"
 permalink: /projects/project2
 venue: 'Perinatal Research Center, University of North Carolina'
