@@ -3,7 +3,6 @@ title: "Clinical Informatics Intern"
 collection: projects
 permalink: /projects/project2
 excerpt: ''
-date: 2022-05-01
 ---
 
 <style>
