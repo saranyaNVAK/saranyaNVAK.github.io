@@ -20,3 +20,6 @@ main:
     
   - title: "Personal"
     url: /personal/
+    
+  - title: "Miscellaneous"
+    url: /misc/    
