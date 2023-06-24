@@ -24,4 +24,4 @@ venue: 'Malla Reddy Hospital, India'
   }
 </style>
 
-<p id="rcorners">I worked as a Clinical Pharmacist Intern at Malla Reddy Hospital, India from July 2019 to July 2020. </p>
+<p id="rcorners">I worked as a Clinical Pharmacist Intern at Malla Reddy Hospital, India from July 2019 to July 2020. My main responsibilities involved screening prescriptions for all types of medication errors, along with identification, management and reporting, of adverse drug reactions and interactions. I also participated in ward rounds along with the physicians and nurses in the departments of Surgery, Obstetrics and Gynecology, General Medicine and Pediatrics, and provided counsel to physicians and patients regarding appropriate medicines for diseases. I also lead weekly meetings with an interdisciplinary team of physicians and healthcare providers to analyse past patient case files.</p>
