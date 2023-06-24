@@ -35,8 +35,8 @@ Conclusion: Solid state fermentation method can be adopted for large scale produ
 
 <p id="rcorners"><a href="https://www.mjpms.in/articles/production-of-larginase-under-ssf-and-its-optimization.pdf">Download paper here</a></p>
 
-<pre>
-  <code id="rcorners">
+<pre id="rcorners">
+  <code>
     @article{Unissa2017PRODUCTIONOL,
       title={PRODUCTION OF L-ARGINASE UNDER SSF AND ITS OPTIMIZATION},
       author={Rahamat Unissa and K BhanuRekha and Daggupati Amani and Sowmya Konakanchi and Saranya Arun Kumar},
