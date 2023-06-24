@@ -1,6 +1,6 @@
 ---
 title: "Clinical Informatics Intern"
-collection: projects
+collection: teaching
 permalink: /projects/project2
 excerpt: ''
 ---
