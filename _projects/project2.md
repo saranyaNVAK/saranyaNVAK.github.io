@@ -1,8 +1,11 @@
 ---
 title: "Clinical Informatics Intern"
 collection: teaching
+type: "Internship"
 permalink: /projects/project2
-excerpt: ''
+venue: 'Perinatal Research Center, University of North Carolina'
+date: 2022-11-01
+location: "Chapel Hill, NC"
 ---
 
 <style>
