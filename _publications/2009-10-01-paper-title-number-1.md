@@ -3,7 +3,7 @@ title: "Production of L-Arginase Under SSF and its Optimization"
 collection: publications
 permalink: /publications/paper1
 excerpt: ''
-date: 2018-01-01
+date: 2018-04-01
 venue: 'Mintage Journal of Pharmaceutical & Medical Sciences'
 paperurl: 'https://www.mjpms.in/articles/production-of-larginase-under-ssf-and-its-optimization.pdf'
 ---
