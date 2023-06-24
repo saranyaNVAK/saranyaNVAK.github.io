@@ -1,6 +1,6 @@
 ---
 title: "Clinical Pharmacist Intern"
-collection: projects
+collection: teaching
 permalink: /projects/project1
 excerpt: ''
 date: 2020-07-01
