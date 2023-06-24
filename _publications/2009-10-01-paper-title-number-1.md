@@ -33,11 +33,10 @@ Results: The maximum yield (66.08 IU/ml) of l-arginase by Idiomarina sediminium 
 
 Conclusion: Solid state fermentation method can be adopted for large scale production of the enzyme for the therapeutic use in the future.</p>
 
-<p id="rcorners">[Download paper here](https://www.mjpms.in/articles/production-of-larginase-under-ssf-and-its-optimization.pdf)</p>
+<p id="rcorners"><a href="https://www.mjpms.in/articles/production-of-larginase-under-ssf-and-its-optimization.pdf">Download paper here</a></p>
 
-<p id="rcorners">Cite this paper as:
 <pre>
-  <code>
+  <code id="rcorners">
     @article{Unissa2017PRODUCTIONOL,
       title={PRODUCTION OF L-ARGINASE UNDER SSF AND ITS OPTIMIZATION},
       author={Rahamat Unissa and K BhanuRekha and Daggupati Amani and Sowmya Konakanchi and Saranya Arun Kumar},
@@ -47,4 +46,3 @@ Conclusion: Solid state fermentation method can be adopted for large scale produ
     }
   </code>
 </pre>
-</p>
