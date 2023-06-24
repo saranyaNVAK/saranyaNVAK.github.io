@@ -3,7 +3,6 @@ title: "Graduate Research Assistant"
 collection: projects
 permalink: /projects/project1
 excerpt: ''
-date: 2022-06-01
 ---
 
 <style>
