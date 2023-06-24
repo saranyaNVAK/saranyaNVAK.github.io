@@ -3,7 +3,7 @@ title: "Thalassemia: A Review"
 collection: publications
 permalink: /publications/paper2
 excerpt: ''
-date: 2018-10-01
+date: 2018-02-01
 venue: 'Asian Journal of Pharmaceutical Research'
 paperurl: 'https://asianjpr.com/AbstractView.aspx?PID=2018-8-3-14'
 ---
