@@ -45,16 +45,30 @@ redirect_from:
 a:link {
   text-decoration: none;
 }
+
+body {
+    background-image: url('https://github.com/maitrey-gramo/maitrey-gramo.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+  }
+
+#rcorners {
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.5);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 10px;
+}
 </style>
 
 {% include base_path %}
 
-<div class="row" style="background-color: #D3D3D3;text-align: center;">
+<div class="row" style="text-align: center;" id="rcorners">
   <div class="card">
     <a href="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf">Open full PDF</a>
   </div>
 </div>
-<br>
 <div class="row">
   <div class="card">
     <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf" width="100%" height="1000"></iframe>
