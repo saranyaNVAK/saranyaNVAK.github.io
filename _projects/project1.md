@@ -1,8 +1,10 @@
 ---
-title: "Graduate Research Assistant"
+title: "Clinical Pharmacist Intern"
 collection: projects
 permalink: /projects/project1
 excerpt: ''
+date: 2020-07-01
+venue: 'Malla Reddy Hospital, India'
 ---
 
 <style>
@@ -22,4 +24,4 @@ excerpt: ''
   }
 </style>
 
-<p id="rcorners"></p>
+<p id="rcorners">I worked as a Clinical Pharmacist Intern at Malla Reddy Hospital, India from July 2019 to July 2020. </p>
