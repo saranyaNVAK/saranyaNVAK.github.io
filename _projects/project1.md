@@ -1,6 +1,6 @@
 ---
 title: "Clinical Pharmacist Intern"
-collection: teaching
+collection: projects
 type: "Internship"
 permalink: /projects/project1
 venue: 'Malla Reddy Hospital'
