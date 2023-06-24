@@ -12,14 +12,6 @@ author_profile: true
     background-attachment: fixed; 
     background-size: cover;
   }
-
-  #rcorners {
-    border-radius: 10px;
-    background: rgba(255, 255, 255, 0.5);
-    background-position: left top;
-    background-repeat: repeat;
-    padding: 10px;
-  }
 </style>
 
 {% if author.googlescholar %}
@@ -29,5 +21,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  <p id="rcorners">{% include archive-single.html %}</p>
+  {% include archive-single.html %}
 {% endfor %}
