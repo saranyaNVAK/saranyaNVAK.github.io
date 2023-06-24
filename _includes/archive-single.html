@@ -1,3 +1,13 @@
+<style>
+  #rcorners {
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 10px;
+  }
+</style>
+
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -12,7 +22,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div id="rcorners" class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
