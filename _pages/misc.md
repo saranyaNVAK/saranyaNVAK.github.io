@@ -64,5 +64,10 @@ a:link {
   
 </style>
 
-<h2 id="rcorners">Skillset!</h2>
+<div id="rcorners">
+<h1>Achievements</h2>
 
+• Won an award for presenting a research paper on “Screening and Isolation of Protease Producing Bacteria from Soil Collected from Different Areas of Burthanpur Region (MP), INDIA” in Indo-African international conference on 2017 held at Malla Reddy College of Pharmacy
+• Ranked among top 10% of the students throughout the 6 academic years
+• Ranked top 3 in Pharmacotherapeutics, Pharmacology, and Biopharmaceutics and Pharmacokinetics curricular core subjects
+</div>
