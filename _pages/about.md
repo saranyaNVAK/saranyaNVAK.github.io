@@ -67,4 +67,11 @@ a:link {
 
 <h1 id="rcorners">Welcome to my webpage!</h1>
 
-<p id="rcorners">My name is Saranya Arun Kumar. I am a Clinical Content Analyst at <a href="https://clinicalarchitecture.com">Clinical Architecture</a>, responsible for curating, analysing and documenting health records for <a href="https://clinicalarchitecture.com/symedical/">Symedical</a>. I recently graduated from the <a href="https://www.unc.edu">University of North Carolina at Chapel Hill</a> with a <a href="https://chip.unc.edu">Master of Professional Science in Biomedical and Health Informatics</a>. During my course at UNC, I have worked with Prof. <a href="https://feiyu.web.unc.edu/">Fei Yu</a> on studying statistical trends of COVID-19 impact on the population. I have also worked with the <a href="https://www.med.unc.edu/psych/wmd/research/perinatal/">Perinatal Research Center</a> at UNC Chapel Hill to survey and visualise the recent perinatal research trends.</p>
+<p id="rcorners">My name is Saranya Arun Kumar. I am a Clinical Content Analyst at <a href="https://clinicalarchitecture.com">Clinical Architecture</a>, responsible for curating, analysing and documenting health records for <a href="https://clinicalarchitecture.com/symedical/">Symedical</a>. I recently graduated from the <a href="https://www.unc.edu">University of North Carolina at Chapel Hill</a> with a <a href="https://chip.unc.edu">Master of Professional Science in Biomedical and Health Informatics</a>. During my course at UNC, I have worked with Prof. <a href="https://feiyu.web.unc.edu/">Fei Yu</a> on studying statistical trends of COVID-19 impact on the population. I have also worked as a Clinical Informatics intern with the <a href="https://www.med.unc.edu/psych/wmd/research/perinatal/">Perinatal Research Center</a> at UNC Chapel Hill to survey and visualise the recent perinatal research trends.</p>
+
+<p id="rcorners">I completed my Doctor of Pharmacy from the esteemed <a href="https://www.osmania.ac.in/">Osmania University</a>, where I also worked as a Clinical Pharmacy intern with several departments in rotations - Surgery, Obstetrics and Gynecology, General Medicine and Pediatrics.</p>
+
+<p id="rcorners">During my time practicing medicine, I have helped organise several workshops for the underprivilaged communities and also have contributed to various published papers. My goal in life is to keep serving the underserved and to improve knowledge about healthcare and make it more accessible to everyone. Please feel free to explore my website to know more about me and my interests!</p>
+
+
+
