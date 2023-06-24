@@ -1,10 +1,11 @@
 ---
 title: "Clinical Pharmacist Intern"
 collection: teaching
+type: "Internship"
 permalink: /projects/project1
-excerpt: ''
+venue: 'Malla Reddy Hospital'
 date: 2020-07-01
-venue: 'Malla Reddy Hospital, India'
+location: "Hydrabad, India"
 ---
 
 <style>
