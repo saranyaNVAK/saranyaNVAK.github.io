@@ -73,5 +73,7 @@ a:link {
 
 <p id="rcorners">During my time practicing medicine, I have helped organise several workshops for the underprivilaged communities and also have contributed to various published papers. My goal in life is to keep serving the underserved and to improve knowledge about healthcare and make it more accessible to everyone. Please feel free to explore my website to know more about me and my interests!</p>
 
+<p id="rcorners">During my time practicing medicine, I have helped organise several workshops for the underprivilaged communities and also have contributed to various published papers. My goal in life is to keep serving the underserved and to improve knowledge about healthcare and make it more accessible to everyone. Please feel free to explore my website to know more about me and my interests!</p>
+
 
 
