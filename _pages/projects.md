@@ -1,21 +1,21 @@
 ---
-title: 'Project number 1'
-date: 2012-08-14
-permalink: /projects
-tags:
-  - cool posts
-  - category1
-  - category2
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+<style>
+  body {
+    background-image: url('https://github.com/maitrey-gramo/maitrey-gramo.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+  }
+</style>
 
-Headings are cool
-======
+{% include base_path %}
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
-
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
