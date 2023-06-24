@@ -72,8 +72,3 @@ a:link {
 <p id="rcorners">I completed my Doctor of Pharmacy from the esteemed <a href="https://www.osmania.ac.in/">Osmania University</a>, where I also worked as a Clinical Pharmacy intern with several departments in rotations - Surgery, Obstetrics and Gynecology, General Medicine and Pediatrics.</p>
 
 <p id="rcorners">During my time practicing medicine, I have helped organise several workshops for the underprivilaged communities and also have contributed to various published papers. My goal in life is to keep serving the underserved and to improve knowledge about healthcare and make it more accessible to everyone. Please feel free to explore my website to know more about me and my interests!</p>
-
-<p id="rcorners">During my time practicing medicine, I have helped organise several workshops for the underprivilaged communities and also have contributed to various published papers. My goal in life is to keep serving the underserved and to improve knowledge about healthcare and make it more accessible to everyone. Please feel free to explore my website to know more about me and my interests!</p>
-
-
-
