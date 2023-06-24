@@ -1,5 +1,5 @@
 ---
-permalink: /misc
+permalink: /misc/
 title: ""
 excerpt: "Miscellaneous"
 author_profile: true
@@ -63,3 +63,6 @@ a:link {
 }
   
 </style>
+
+<h2 id="rcorners">Skillset!</h2>
+
