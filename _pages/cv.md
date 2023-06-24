@@ -66,11 +66,11 @@ body {
 
 <div class="row" style="text-align: center;" id="rcorners">
   <div class="card">
-    <a href="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf">Open full PDF</a>
+    <a href="https://maitrey-gramo/CV/Saranya_resume.pdf">Open full PDF</a>
   </div>
 </div>
 <div class="row">
   <div class="card">
-    <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf" width="100%" height="1000"></iframe>
+    <iframe src="https://maitrey-gramo.github.io/CV/Saranya_resume.pdf" width="100%" height="1000"></iframe>
   </div>
 </div>
