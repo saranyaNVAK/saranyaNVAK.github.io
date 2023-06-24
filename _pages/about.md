@@ -67,7 +67,7 @@ a:link {
 
 <h1 id="rcorners">Welcome to my webpage!</h1>
 
-<p id="rcorners">My name is Saranya Arun Kumar. I am a Clinical Content Analyst at <a href="https://clinicalarchitecture.com">Clinical Architecture</a>, responsible for curating, analysing and documenting health records for <a href="https://clinicalarchitecture.com/symedical/">Symedical</a>.</p>
+<p id="rcorners">My name is Saranya Arun Kumar. I am a Clinical Content Analyst at <a href="https://clinicalarchitecture.com">Clinical Architecture</a>, responsible for curating, analysing and documenting health records for <a href="https://clinicalarchitecture.com/symedical/">Symedical</a>. I recently graduated from the <a href="https://www.unc.edu">University of North Carolina at Chapel Hill</a> with a <a href="https://chip.unc.edu">Master of Professional Science in Biomedical and Health Informatics</a>.</p>
 
 
 
