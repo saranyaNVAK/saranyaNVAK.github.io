@@ -25,4 +25,4 @@ location: "Chapel Hill, NC"
   }
 </style>
 
-<p id="rcorners"></p>
+<p id="rcorners">I worked with Prof. Fei Yu to create a bibliographic study by surveying scientific investigations and research on African American health impacted by COVID-19. Using Covidence I manually screened over 6500 citations for the project, and analysed the trends in the collected data.</p>
