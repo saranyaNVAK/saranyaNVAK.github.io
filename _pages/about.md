@@ -67,7 +67,7 @@ a:link {
 
 <h1 id="rcorners">Welcome to my webpage!</h1>
 
-<p id="rcorners">I am a </p>
+<p id="rcorners">My name is Saranya Arun Kumar. I am a Clinical Content Analyst at <a href="https://clinicalarchitecture.com">Clinical Architecture</a>, responsible for curating, analysing and documenting health records for <a href="https://clinicalarchitecture.com/symedical/">Symedical</a>.</p>
 
 
 
