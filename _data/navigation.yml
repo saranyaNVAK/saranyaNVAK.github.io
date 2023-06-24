@@ -17,9 +17,12 @@ main:
     
   - title: "CV"
     url: /CV/
+
+  - title: "Miscellaneous"
+    url: /misc/
     
   - title: "Personal"
     url: /personal/
     
-  - title: "Miscellaneous"
-    url: /misc/    
+  - title: "Happy Birthday!! ❤"
+    url: /bubu_bobba/    
