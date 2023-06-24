@@ -3,6 +3,6 @@ title: "Biogenic Synthesis of Silver Nano Particles Using Endophytic Fungi P. Ch
 collection: publications
 permalink: /publications/paper3
 excerpt: ''
-date: 2018-03-01
+date: 2018-02-01
 venue: 'International Journal of Research in Pharmacy and Biosciences'
 ---
