@@ -63,6 +63,7 @@ a:link {
 
 <p id="rcorners">I'm grew up in <a href="https://en.wikipedia.org/wiki/Hyderabad">Hyderabad</a>, a city in Southern <a href="https://en.wikipedia.org/wiki/India">India</a>. Growing up in one of the food capitals of the world, I have always been a foodie and am always up for a mid afternoon pani-puri break! I also love exploring and meeting new people. During the course of my schooling, I have helped organise several workshops and bootcamps and have met people from varied backgrounds. I also love travelling and hiking with my friends. My other hobbies include sketching and brewing the best cups of coffee! Check out some of the pictures below to get to know me better.</p>
 <br>
+<div id="rcorners">
 <div class="row">
   <div class="column">
     <div class="card">
@@ -154,4 +155,5 @@ a:link {
     <div class="card">
     </div>
   </div>
+</div>
 </div>
