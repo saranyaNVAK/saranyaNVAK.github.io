@@ -63,9 +63,36 @@ a:link {
 
 <h1 id="rcorners">Happy Birthday my Bubu!</h1>
 
+<div class="row" id="rcorners">
+  <div class="column" style="width: 70%;">
+    <div class="card">
+      There is this one witch, who has bewitched me. She has gone and captured my heart! ❤️
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b1.png"/>
+    </div>
+  </div>
+</div>
+<br>
+
+<div class="row" id="rcorners">
+  <div class="column" style="width: 70%;">
+    <div class="card">
+      Because she has captured my heart, she can be a pain in the ass! XD<br>
+      She frequently throws tantrums, doesn't listen to me, freaks out about small things and does Bobba, Bobba then XD. Then later, she says that things were easy enough and that she panicked for no reason. She also behaves like a cutu potato sometimes and doesn't exercise. She teases me a lot and I think I will lose my hearing at some point because of her shouting XD.
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b1.png"/>
+    </div>
+  </div>
+</div>
+
 silly stuff we do, will keep taking weird photos of you, will let you put makeup on me and you can keep playing with my hair, will keep making cute faces at each other, will keep taking screenshots and look at them later
 
-witch bewitched my heart
 
 cutu under snowfall
 
