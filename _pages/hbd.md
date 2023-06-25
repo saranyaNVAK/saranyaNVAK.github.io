@@ -470,8 +470,15 @@ a:link {
 </div>
 <br>
 
-many memories in collages
-
-last mai us photo
-
-love - cuddle, talk, hold
+<div class="row" id="rcorners">
+  <div class="column" style="width: 50%;">
+    <div class="card">
+      <h2>Happy Birthday my life! I love you! ❤️</h2>
+    </div>
+  </div>
+  <div class="column" style="width: 50%;">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/us1.jpg"/>
+    </div>
+  </div>
+</div>
