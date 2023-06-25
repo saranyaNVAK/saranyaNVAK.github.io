@@ -269,6 +269,116 @@ a:link {
 </div>
 <br>
 
+
+
+
+
+
+
+
+
+<div id="rcorners">
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l1.jpg"/>
+    </div>
+  </div>
+  <div class="column" style="width: 50%;">
+    <div class="card">
+      <h3>But most of all... we have loved. I promise to keep loving you always.</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l2.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l3.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l4.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l5.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l6.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l7.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l8.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l9.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l10.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l11.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l12.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l13.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l14.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l15.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l16.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+
 many memories in collages
 
 last mai us photo
