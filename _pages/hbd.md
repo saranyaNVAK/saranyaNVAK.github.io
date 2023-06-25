@@ -165,7 +165,51 @@ a:link {
 </div>
 <br>
 
-silly stuff we do, will keep taking weird photos of you, will let you put makeup on me and you can keep playing with my hair, will keep making cute faces at each other, will keep taking screenshots and look at them later
+<div id="rcorners">
+<div class="row">
+  <div class="column" style="width: 50%;">
+    <div class="card">
+      We have laughed, cried, fought, made up, talked, enjoyed silence, walked, driven, flown, painted, sang, cooked, burnt cooking XD, missed each other, and found each other. And we have done a shit ton of bakchodi together! XD<br>
+      <h3>And it's still the beginning for us! 😘</h3><br>
+      I promise to keep taking weird photos of you. I promise to let you put makeup on me and you can keep playing with my hair. I promise to keep taking screenshots and look at them later XD. And I promise we will keep making cute (psychotic?) faces at each other.
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f1.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f2.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f3.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f4.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f5.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f6.jpg"/>
+    </div>
+  </div>
+</div>
+</div>
+<br>
 
 many memories in collages
 
