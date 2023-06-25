@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 body {
-  background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/images/back.jpeg');
+  background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/images/hands.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
