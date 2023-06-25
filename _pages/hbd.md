@@ -91,7 +91,7 @@ a:link {
   <div class="column" style="width: 40%;">
     <div class="card">
       Because she has captured my heart, she can be a pain in the ass! XD<br>
-      She frequently throws tantrums, doesn't listen to me, freaks out about small things and does Bobba, Bobba then XD. Then later, she says that things were easy enough and that she panicked for no reason. She also behaves like a cutu panda sometimes and doesn't exercise. She teases me a lot and I think I will lose my hearing at some point because of her shouting XD.
+      She frequently throws tantrums, doesn't listen to me, freaks out about small things and does Bobba, Bobba XD. Then later, she says that things were easy enough and that she panicked for no reason. She also behaves like a cutu panda sometimes and doesn't exercise. She teases me a lot and I think I will lose my hearing at some point because of her shouting XD.
     </div>
   </div>
 </div>
