@@ -245,7 +245,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s13.jpg"/>
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s13.png"/>
     </div>
   </div>
   <div class="column">
@@ -258,12 +258,12 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s13.jpg"/>
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s15.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s14.jpg"/>
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s16.jpg"/>
     </div>
   </div>
 </div>
