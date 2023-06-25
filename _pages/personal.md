@@ -80,15 +80,15 @@ a:link {
       <img alt="image" src="https://maitrey-gramo.github.io/images/my/my3.jpg"/>
     </div>
   </div>
-</div>
-<br>
-
-<div class="row">
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitrey-gramo.github.io/images/my/my4.jpg"/>
     </div>
   </div>
+</div>
+<br>
+
+<div class="row">
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h1.png"/>
@@ -99,10 +99,6 @@ a:link {
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h2.png"/>
     </div>
   </div>
-</div>
-<br>
-
-<div class="row">
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h3.jpg"/>
@@ -113,15 +109,15 @@ a:link {
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h4.jpg"/>
     </div>
   </div>
+</div>
+<br>
+
+<div class="row">
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h5.jpg"/>
     </div>
   </div>
-</div>
-<br>
-
-<div class="row">
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h6.jpg"/>
