@@ -63,3 +63,16 @@ a:link {
 
 <h1 id="rcorners">Happy Birthday my Bubu!</h1>
 
+silly stuff we do, will keep taking weird photos of you, will let you put makeup on me and you can keep playing with my hair, will keep making cute faces at each other, will keep taking screenshots and look at them later
+
+witch bewitched my heart
+
+cutu under snowfall
+
+first morning together, first time in a bed together, first photo, first breakfast together
+
+many memories in collages
+
+last mai us photo
+
+love - cuddle, talk, hold
