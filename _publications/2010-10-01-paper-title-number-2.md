@@ -10,7 +10,7 @@ paperurl: 'https://asianjpr.com/AbstractView.aspx?PID=2018-8-3-14'
 
 <style>
   body {
-    background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
+    background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/assets/137589781/c64bfc67-977b-4a33-8433-fea325dc0299');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
