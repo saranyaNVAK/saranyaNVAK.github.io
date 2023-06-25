@@ -3,9 +3,6 @@ title: "Graduate Research Assistant"
 collection: projects
 type: "Part time"
 permalink: /projects/project3
-venue: 'Prof. Fei Yu, School of Information and Library Science, UNC Chapel Hill'
-date: 2023-04-01
-location: "Chapel Hill, NC"
 ---
 
 <style>
@@ -24,5 +21,7 @@ location: "Chapel Hill, NC"
     padding: 10px;
   }
 </style>
+
+<p id="rcorners">Prof. Fei Yu, School of Information and Library Science, UNC Chapel Hill, 2023</p>
 
 <p id="rcorners">I worked with Prof. Fei Yu to create a bibliographic study by surveying scientific investigations and research on African American health impacted by COVID-19. Using Covidence I manually screened over 6500 citations for the project, and analysed the trends in the collected data.</p>
