@@ -71,7 +71,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b1.png"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/b1.png"/>
     </div>
   </div>
 </div>
@@ -80,12 +80,12 @@ a:link {
 <div class="row" id="rcorners">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b2.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/b2.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b3.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/b3.jpg"/>
     </div>
   </div>
   <div class="column" style="width: 40%;">
@@ -100,7 +100,7 @@ a:link {
 <div class="row" id="rcorners">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b4.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/b4.jpg"/>
     </div>
   </div>
   <div class="column">
@@ -110,12 +110,12 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b5.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/b5.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b6.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/b6.jpg"/>
     </div>
   </div>
 </div>
@@ -130,12 +130,12 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f1.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/f1.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f2.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/f2.jpg"/>
     </div>
   </div>
 </div>
@@ -143,22 +143,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f3.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/f3.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f4.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/f4.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f5.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/f5.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f6.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/f6.jpg"/>
     </div>
   </div>
 </div>
@@ -176,35 +176,12 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s1.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s1.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s2.png"/>
-    </div>
-  </div>
-</div>
-<br>
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s3.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s4.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s5.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s6.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s2.png"/>
     </div>
   </div>
 </div>
@@ -212,45 +189,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s7.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s3.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s8.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s4.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s9.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s5.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s10.png"/>
-    </div>
-  </div>
-</div>
-<br>
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s11.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s12.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s13.png"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s14.png"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s6.jpg"/>
     </div>
   </div>
 </div>
@@ -258,12 +212,58 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s15.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s7.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/s16.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s8.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s9.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s10.png"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s11.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s12.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s13.png"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s14.png"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s15.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/s16.jpg"/>
     </div>
   </div>
 </div>
@@ -274,7 +274,7 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l1.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l1.jpg"/>
     </div>
   </div>
   <div class="column" style="width: 50%;">
@@ -284,7 +284,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l2.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l2.jpg"/>
     </div>
   </div>
 </div>
@@ -292,45 +292,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l3.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l3.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l4.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l4.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l5.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l5.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l6.jpg"/>
-    </div>
-  </div>
-</div>
-<br>
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l7.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l8.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l9.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l10.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l6.jpg"/>
     </div>
   </div>
 </div>
@@ -338,22 +315,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l11.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l7.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l12.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l8.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l13.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l9.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l14.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l10.jpg"/>
     </div>
   </div>
 </div>
@@ -361,17 +338,40 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l15.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l11.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l16.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l12.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l17.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l13.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l14.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l15.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l16.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/l17.jpg"/>
     </div>
   </div>
 </div>
@@ -394,35 +394,12 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c1.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c1.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c12.jpg"/>
-    </div>
-  </div>
-</div>
-<br>
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c3.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c4.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c5.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c6.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c12.jpg"/>
     </div>
   </div>
 </div>
@@ -430,22 +407,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c7.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c3.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c8.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c4.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c9.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c5.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c10.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c6.jpg"/>
     </div>
   </div>
 </div>
@@ -453,17 +430,40 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c11.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c7.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c13.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c8.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c14.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c9.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c10.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c11.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c13.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/c14.jpg"/>
     </div>
   </div>
 </div>
@@ -478,7 +478,7 @@ a:link {
   </div>
   <div class="column" style="width: 50%;">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/us1.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/bubu/us1.jpg"/>
     </div>
   </div>
 </div>
