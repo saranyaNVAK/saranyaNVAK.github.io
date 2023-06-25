@@ -72,7 +72,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://saranyaNVAKo.github.io/images/my/my2.png"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/my/my2.png"/>
     </div>
   </div>
   <div class="column">
