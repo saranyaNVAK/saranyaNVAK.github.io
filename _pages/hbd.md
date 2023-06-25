@@ -121,10 +121,52 @@ a:link {
 </div>
 <br>
 
+<div id="rcorners">
+<div class="row">
+  <div class="column" style="width: 50%;">
+    <div class="card">
+      Remember Bubu? Our first date? Our first photo? Our first kiss? Our first time together in a bed? Our first morning together? First time having breakfast together?<br><br>I know you do, and so do I. We'll never forget these moments... and we've come a long way since then!
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f1.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f2.jpg"/>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f3.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f4.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f5.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/f6.jpg"/>
+    </div>
+  </div>
+</div>
+</div>
+<br>
+
 silly stuff we do, will keep taking weird photos of you, will let you put makeup on me and you can keep playing with my hair, will keep making cute faces at each other, will keep taking screenshots and look at them later
 
-
-cutu under snowfall
 
 first morning together, first time in a bed together, first photo, first breakfast together
 
