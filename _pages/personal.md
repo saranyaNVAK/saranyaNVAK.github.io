@@ -138,3 +138,20 @@ a:link {
   </div>
 </div>
 <br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h9.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h10.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+    </div>
+  </div>
+</div>
