@@ -78,15 +78,20 @@ a:link {
 <br>
 
 <div class="row" id="rcorners">
-  <div class="column" style="width: 70%;">
+  <div class="column">
     <div class="card">
-      Because she has captured my heart, she can be a pain in the ass! XD<br>
-      She frequently throws tantrums, doesn't listen to me, freaks out about small things and does Bobba, Bobba then XD. Then later, she says that things were easy enough and that she panicked for no reason. She also behaves like a cutu potato sometimes and doesn't exercise. She teases me a lot and I think I will lose my hearing at some point because of her shouting XD.
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b2.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b1.png"/>
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b3.jpg"/>
+    </div>
+  </div>
+  <div class="column" style="width: 40%;">
+    <div class="card">
+      Because she has captured my heart, she can be a pain in the ass! XD<br>
+      She frequently throws tantrums, doesn't listen to me, freaks out about small things and does Bobba, Bobba then XD. Then later, she says that things were easy enough and that she panicked for no reason. She also behaves like a cutu panda sometimes and doesn't exercise. She teases me a lot and I think I will lose my hearing at some point because of her shouting XD.
     </div>
   </div>
 </div>
