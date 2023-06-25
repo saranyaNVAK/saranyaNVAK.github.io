@@ -369,6 +369,11 @@ a:link {
       <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l16.jpg"/>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/l17.jpg"/>
+    </div>
+  </div>
 </div>
 </div>
 <br>
