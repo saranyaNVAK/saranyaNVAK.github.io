@@ -95,6 +95,31 @@ a:link {
     </div>
   </div>
 </div>
+<br>
+
+<div class="row" id="rcorners">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b4.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <h3>But I don't know how to live without her. Seeing her smile takes my breath away. Hearing her laugh makes my day. And thinking about her keeps me up at nights. 🥰🥰</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b5.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/b6.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
 
 silly stuff we do, will keep taking weird photos of you, will let you put makeup on me and you can keep playing with my hair, will keep making cute faces at each other, will keep taking screenshots and look at them later
 
