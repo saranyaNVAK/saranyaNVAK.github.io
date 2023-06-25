@@ -47,7 +47,7 @@ a:link {
 }
 
 body {
-    background-image: url('https://github.com/maitrey-gramo/maitrey-gramo.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
+    background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
@@ -66,11 +66,11 @@ body {
 
 <div class="row" style="text-align: center;" id="rcorners">
   <div class="card">
-    <a href="https://maitrey-gramo.github.io/CV/Saranya_resume.pdf">Open full PDF</a>
+    <a href="https://saranyaNVAK.github.io/CV/Saranya_resume.pdf">Open full PDF</a>
   </div>
 </div>
 <div class="row">
   <div class="card">
-    <iframe src="https://maitrey-gramo.github.io/CV/Saranya_resume.pdf" width="100%" height="1000"></iframe>
+    <iframe src="https://saranyaNVAK.github.io/CV/Saranya_resume.pdf" width="100%" height="1000"></iframe>
   </div>
 </div>
