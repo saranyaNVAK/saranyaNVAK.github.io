@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 body {
-  background-image: url('https://github.com/maitrey-gramo/maitrey-gramo.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
+  background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/assets/111958072/0d639ecc-ba0b-43fc-a059-f701c14ee89a');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
@@ -67,46 +67,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/my/my1.png"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/my/my1.png"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/my/my2.png"/>
+      <img alt="image" src="https://saranyaNVAKo.github.io/images/my/my2.png"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/my/my3.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/my/my3.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/my/my4.jpg"/>
-    </div>
-  </div>
-</div>
-<br>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h1.png"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h2.png"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h3.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h4.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/my/my4.jpg"/>
     </div>
   </div>
 </div>
@@ -115,22 +91,22 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h5.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h1.png"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h6.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h2.png"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h7.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h3.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h8.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h4.jpg"/>
     </div>
   </div>
 </div>
@@ -139,12 +115,36 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h9.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h5.jpg"/>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h10.jpg"/>
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h6.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h7.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h8.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h9.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://saranyaNVAK.github.io/images/hobby/h10.jpg"/>
     </div>
   </div>
 </div>
