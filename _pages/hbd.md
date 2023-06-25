@@ -139,7 +139,7 @@ a:link {
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -166,9 +166,6 @@ a:link {
 <br>
 
 silly stuff we do, will keep taking weird photos of you, will let you put makeup on me and you can keep playing with my hair, will keep making cute faces at each other, will keep taking screenshots and look at them later
-
-
-first morning together, first time in a bed together, first photo, first breakfast together
 
 many memories in collages
 
