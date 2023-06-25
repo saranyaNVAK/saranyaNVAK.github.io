@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Happy Birthday my Bubu!"
+title: ""
 permalink: /bubu_bobba/
 author_profile: true
 ---
@@ -60,3 +60,6 @@ a:link {
 }
   
 </style>
+
+<h1 id="rcorners">Happy Birthday my Bubu!</h1>
+
