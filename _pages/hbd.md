@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 body {
-  background-image: url('https://github.com/maitrey-gramo/maitrey-gramo.github.io/assets/111958072/48dfe3af-41bb-4279-8a34-fdeba77e44fd');
+  background-image: url('https://github.com/saranyaNVAK/saranyaNVAK.github.io/assets/111958072/48dfe3af-41bb-4279-8a34-fdeba77e44fd');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
