@@ -151,9 +151,5 @@ a:link {
       <img alt="image" src="https://maitrey-gramo.github.io/images/hobby/h10.jpg"/>
     </div>
   </div>
-  <div class="column">
-    <div class="card">
-    </div>
-  </div>
 </div>
 </div>
