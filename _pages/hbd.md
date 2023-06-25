@@ -399,7 +399,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c2.jpg"/>
+      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c12.jpg"/>
     </div>
   </div>
 </div>
@@ -454,11 +454,6 @@ a:link {
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c11.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/bubu/c12.jpg"/>
     </div>
   </div>
   <div class="column">
