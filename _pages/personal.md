@@ -76,7 +76,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitrey-gramo.github.io/images/my/my1.jpg"/>
+      <img alt="image" src="https://maitrey-gramo.github.io/images/my/my3.jpg"/>
     </div>
   </div>
 </div>
